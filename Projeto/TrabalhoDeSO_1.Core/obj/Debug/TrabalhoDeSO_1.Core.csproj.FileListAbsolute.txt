@@ -1,0 +1,18 @@
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1.Core\bin\Debug\TrabalhoDeSO_1.Core.dll
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1.Core\bin\Debug\TrabalhoDeSO_1.Core.pdb
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.csprojAssemblyReference.cache
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.csproj.CoreCompileInputs.cache
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.dll
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.pdb
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1.Core\bin\Debug\TrabalhoDeSO_1.Core.dll
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1.Core\bin\Debug\TrabalhoDeSO_1.Core.pdb
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.csprojAssemblyReference.cache
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.csproj.CoreCompileInputs.cache
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.dll
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.pdb
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1.Core\bin\Debug\TrabalhoDeSO_1.Core.dll
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1.Core\bin\Debug\TrabalhoDeSO_1.Core.pdb
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.csprojAssemblyReference.cache
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.csproj.CoreCompileInputs.cache
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.dll
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1.Core\obj\Debug\TrabalhoDeSO_1.Core.pdb

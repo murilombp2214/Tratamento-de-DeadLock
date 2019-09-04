@@ -1,0 +1,45 @@
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.exe.config
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.exe
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.pdb
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.Core.dll
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.Core.pdb
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csprojAssemblyReference.cache
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.FrmPrincipal.resources
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.FrmUmCampoGenerico.resources
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.Properties.Resources.resources
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.GenerateResource.cache
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.CoreCompileInputs.cache
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.CopyComplete
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.exe
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.pdb
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.exe.config
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.exe
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.pdb
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.Core.dll
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.Core.pdb
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csprojAssemblyReference.cache
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.FrmPrincipal.resources
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.FrmUmCampoGenerico.resources
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.Properties.Resources.resources
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.GenerateResource.cache
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.CoreCompileInputs.cache
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.CopyComplete
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.exe
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.pdb
+C:\Faculdade\Sistemas-Operacionais\Trabalho 1 Em andamento\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.frmLoading.resources
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.exe.config
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.exe
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.pdb
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.Core.dll
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.Core.pdb
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csprojAssemblyReference.cache
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.ResolveComReference.cache
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.FrmLoading.resources
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.FrmPrincipal.resources
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.FrmUmCampoGenerico.resources
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.Properties.Resources.resources
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.GenerateResource.cache
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.CoreCompileInputs.cache
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.UI.csproj.CopyComplete
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.exe
+C:\Faculdade\Sistemas-Operacionais\Projetos\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.pdb

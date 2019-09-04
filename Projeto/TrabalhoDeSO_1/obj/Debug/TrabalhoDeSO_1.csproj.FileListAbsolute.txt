@@ -1,0 +1,11 @@
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.exe.config
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.exe
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\bin\Debug\TrabalhoDeSO_1.pdb
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.csprojAssemblyReference.cache
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.FrmPrincipal.resources
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.Properties.Resources.resources
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.csproj.GenerateResource.cache
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.csproj.CoreCompileInputs.cache
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.exe
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.pdb
+C:\Users\MURILO\source\repos\TrabalhoDeSO_1\TrabalhoDeSO_1\obj\Debug\TrabalhoDeSO_1.FrmUmCampoGenerico.resources
